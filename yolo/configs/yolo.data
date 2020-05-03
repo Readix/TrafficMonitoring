@@ -1,0 +1,7 @@
+classes= 10
+train  = data/train.txt
+valid  = data/test.txt
+names = yolo/configs/yolo6classes.names
+backup = backup91/
+results= results/
+
